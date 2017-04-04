@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Quiz about fast cars</string>
+    <string name="title">How much do you know about fast cars?</string>
+    <string name="name">Name</string>
+    <string name="hint_name">Enter your name</string>
+    <string name="question_one">1. What is the fastest car in the world until 2017.</string>
+    <string name="answer_11">A: Bugatti Chiron</string>
+    <string name="answer_12">B: SSC Ultimate Aero</string>
+    <string name="answer_13">C: Hennessey Venom GT</string>
+    <string name="answer_14">D: Saleen S7 Twin Turbo</string>
+    <string name="question_two">2. How fast can the Porsche 918 Spyder go?</string>
+    <string name="answer_21">A: 200 mph</string>
+    <string name="answer_22">B: 210 mph</string>
+    <string name="answer_23">C: 220 mph</string>
+    <string name="answer_24">D: 230 mph</string>
+    <string name="question_three">3. Does the Pegani Huayra BC cost more than $2.5 mln?</string>
+    <string name="answer_31">A: Yes</string>
+    <string name="answer_32">B: No</string>
+    <string name="question_four">4. Which of the following are true?</string>
+    <string name="answer_41">A: The Atom 500 can accelerate to 60 mph in less than 2.5 seconds.</string>
+    <string name="answer_42">B: The Bugatti Chiron has less then 1450 horsepower.</string>
+    <string name="answer_43">C: Lamborghini held the record for fastest production car from 2007 to 2010.</string>
+    <string name="answer_44">D: The Jaguar XJ220 has a V12 under the hood.</string>
+    <string name="question_five">5. What is the brand of this car.</string>
+    <string name="hint_edit_view">Write your answer here...</string>
+    <string name="submit">Submit</string>
+</resources>
